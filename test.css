@@ -34,7 +34,7 @@
       background:linear-gradient(180deg, #1FD1F9 0%, #B621FE 100%);
       display: inline-block;
       font-size: 20px;  
-      animation: rotate-s-loader 1s linear infinite;
+      animation: rotate-s-loader 2s linear infinite;
   
       
   
